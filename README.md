@@ -1,3 +1,3 @@
 # Sudoku-Solver
-it is a program that solves the sudoku puzzle
-it uses the concept of C++ and DSA.
+It is a program that solves the Sudoku puzzle.
+It uses the concept of C++ and DSA.
